@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Nombre de la aplicacion</string>
+    <string name="inicio">Inicio</string>
+    <string name="buscar">Search</string>
+    <string name="camara">Camera</string>
+    <string name="favoritos">Favorites</string>
+    <string name="perfil">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

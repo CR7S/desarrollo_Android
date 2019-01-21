@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Propuesta</string>
+    <string name="item_1">Inicio</string>
+    <string name="item_2">Favoritos</string>
+    <string name="item_3">Comidas</string>
+    <string name="item_4">Mapa</string>
+    <string name="titulo_comidas_populares">Ultimas actividades agregadas</string>
+</resources>

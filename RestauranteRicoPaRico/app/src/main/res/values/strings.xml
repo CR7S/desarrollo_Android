@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">"PJ Villavo"</string>
+    <string name="Mision2">Con el objetivo de poner en marcha el Plan Nacional de Pastoral Juvenil del 1 al 4 de marzo en Villavicencio se realizará el XXXII Encuentro Nacional de Pastoral Juvenil.En este encuentro también se busca fortalecer la organización a nivel nacional, regional y diocesana desde la vivencia comunitaria de la fe.</string>
+    <string name="Vision2">Con el objetivo de poner en marcha el Plan Nacional de Pastoral Juvenil del 1 al 4 de marzo en Villavicencio se realizará el XXXII Encuentro Nacional de Pastoral Juvenil.En este encuentro también se busca fortalecer la organización a nivel nacional, regional y diocesana desde la vivencia comunitaria de la fe.</string>
+    <string name="google_maps_key">AIzaSyAXtWgdcu9phPnO5eqnQMDZVyF44FXZJgE</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_carrito">Añadir al carrito</string>
+
+    <string name="item_inicio">Inicio</string>
+    <string name="item_cuenta">Mi Cuenta</string>
+    <string name="item_mision">Mision</string>
+    <string name="item_vision">Vision</string>
+    <string name="item_categorias">Noticias</string>
+    <string name="item_configuracion">Configuración</string>
+    <string name="item_ubicacion">Ubicación</string>
+
+
+        <string name="titulo_comidas_populares">Ultimas actividades agregadas</string>
+
+    <string name="titulo_tab_platillos">Tipo 1</string>
+    <string name="titulo_tab_bebidas">Tipo 2</string>
+    <string name="titulo_tab_postres">Tipo 3</string>
+
+    <string name="titulo_tab_perfil">PERFIL</string>
+    <string name="titulo_tab_direcciones">DIRECCIONES</string>
+    <string name="titulo_tab_tarjetas">TARJETAS</string>
+
+    <string name="texto_no_tarjetas">No tienes ninguna tarjeta asociada</string>
+
+    <string name="etiqueta_carrito"></string>
+
+    <string name="texto_cambiar_contrasena">Cambia tu contraseña</string>
+    <string name="etiqueta_contrasena">Contraseña</string>
+    <string name="etiqueta_info_usuario">Información del usuario</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
